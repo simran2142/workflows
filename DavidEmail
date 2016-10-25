@@ -1,0 +1,38 @@
+
+
+Myles—this looks really great.
+
+ 
+
+When you’re creating the specs, I’d appreciate if you could
+include details on the image filter being used across all the cyan images, or
+if possible even provide us the filter as an SVG.
+
+ 
+
+I think we had briefly touched on the fonts in an earlier
+call—what fonts are we looking at here, and have we already discussed how we’re
+going to get them on the web?
+
+ 
+
+Simran,
+
+My first thought on these images is something like:
+
+img.classWhenItsCyan {
+
+    filter: sepia(1) hue-rotate(148deg);
+
+}
+
+But I actually think there’s something more complicated going on
+there. Also I think the definition of “sepia” is left to the browser, so that
+method might not produce good cross-browser consistency—definitely more to
+explore here.
+
+ 
+
+Best,
+Dave
+
