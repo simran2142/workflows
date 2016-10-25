@@ -1,0 +1,16 @@
+Cool, as long as the team is willing to spend the money, I don’t see an issue with buying Tiempos, though it’s a bit hard yet to estimate page views for this site:
+https://klim.co.nz/retail-fonts/tiempos-text/buy/#web
+
+Didn’t realize that the image treatment was a rollover thing—definitely will need guidance around that when we get the specs.
+
+From: Gaythwaite, Myles 
+Sent: Tuesday, October 25, 2016 4:21 PM
+To: Maloney, David S; Miller, Sharice; Childers, Robie T; Singh, Simranjit
+Cc: Bansal, Vinay X
+Subject: RE: Ink Overview PDF
+
+Thanks Dave.
+
+Actually, the image rollover is now changing, most likely to a transparency, from full color. We have two font families, Tiempos and Open Sans (also Font Awesome if we want to have live icons and webdings). Open Sans is open source, and the Ink team will have to purchase a license for Tiempos for the web, which they are ok doing. I spoke with Eric about hosting them via @font-face which he said shouldn't be a problem. I've started the style guide which I'll have Sharice distribute. It's just a start but wanted to get input at this point to help lay the ground work for best practices.
+
+Cheers!
